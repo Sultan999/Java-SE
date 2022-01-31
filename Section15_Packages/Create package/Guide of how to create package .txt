@@ -1,0 +1,17 @@
+Create package using Terminal 
+
+1) Create a java class using "TextEdit" and name you package for example, " package mypack1; "
+
+2) in terminal go to the file where you create your java class
+
+3) For example you did create Demo1.java
+
+>> java -d . Demo1.java
+
+If you want to Access and use it in other main class 
+
+1) you have to import it like: 
+
+" import mypack1.Demo1; "
+
+And then you can use it
