@@ -9,3 +9,4 @@ javac filename.java
 # To run the generated class file, use
 java filename
 ```
+> Note: you need to be on same directory where you saved your java file "filename.java".
